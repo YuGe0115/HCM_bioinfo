@@ -4,7 +4,7 @@
 nextflow run /home/public/nextflow/nf-core-sarek_3.5.1/3_5_1 \
     -profile singularity \
     --input samplesheet.csv \
-    --outdir /scratch/merlin/test-result \
+    --outdir /scratch/yuge/test-result \
     --genome GATK.GRCh38 \
     --igenomes_base /data/public/Reference/igenomes \
     --wes \
