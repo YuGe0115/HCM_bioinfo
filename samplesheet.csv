@@ -125,7 +125,7 @@ patient,sample,lane,fastq_1,fastq_2
 0085,sample85,L001,/data/public/Project/Seawall/FASTQ/M2000-667-134338-9130r-MHH-WES-71_L03_1.fq.gz,/data/public/Project/Seawall/FASTQ/M2000-667-134338-9130r-MHH-WES-71_L03_2.fq.gz
 0085,sample85,L002,/data/public/Project/Seawall/FASTQ/M2000-667-134338-9130r-MHH-WES-71_L04_1.fq.gz,/data/public/Project/Seawall/FASTQ/M2000-667-134338-9130r-MHH-WES-71_L04_2.fq.gz
 0086,sample86,L001,/data/public/Project/Seawall/FASTQ/612734-9130rv3-CSJ-WES_L01_1.fq.gz,/data/public/Project/Seawall/FASTQ/612734-9130rv3-CSJ-WES_L01_2.fq.gz
-0087,sample87,L001,/data/public/Project/Seawall/FASTQ/M2000-665-134282-9130r-B_032-WES-121_L03_1.fq.gz,/data/public/Project/Seawall/FASTQ/M2000-665-134282-9130r-B_032-WES-121_L03_2.fq.gz,
+0087,sample87,L001,/data/public/Project/Seawall/FASTQ/M2000-665-134282-9130r-B_032-WES-121_L03_1.fq.gz,/data/public/Project/Seawall/FASTQ/M2000-665-134282-9130r-B_032-WES-121_L03_2.fq.gz
 0087,sample87,L002,/data/public/Project/Seawall/FASTQ/M2000-665-134282-9130r-B_032-WES-121_L04_1.fq.gz,/data/public/Project/Seawall/FASTQ/M2000-665-134282-9130r-B_032-WES-121_L04_2.fq.gz
 0088,sample88,L001,/data/public/Project/Seawall/FASTQ/612593-9130rv3-CSQ-WES_L01_1.fq.gz,/data/public/Project/Seawall/FASTQ/612593-9130rv3-CSQ-WES_L01_2.fq.gz
 0089,sample89,L001,/data/public/Project/Seawall/FASTQ/612553-9130rv3-CJF-WES_L01_1.fq.gz,/data/public/Project/Seawall/FASTQ/612553-9130rv3-CJF-WES_L01_2.fq.gz
