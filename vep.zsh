@@ -1,3 +1,9 @@
+#!/usr/bin/zsh
+# 这是一个Zsh脚本，使用Zsh作为解释器
+# 功能：处理VCF（Variant Call Format）文件，进行变体注释和过滤
+
+ref_path=/data/public/Reference
+
 singularity exec /home/public/singularity/ensembl-vep.sif vep \
   --offline \
   --cache \
