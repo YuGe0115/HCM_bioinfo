@@ -5,7 +5,6 @@
 ref_path=/data/public/Reference
 
 singularity exec /home/public/singularity/ensembl-vep.sif vep \
-  --offline \
   --cache \
   --merged \
   --dir_cache ${ref_path}/VEP \
